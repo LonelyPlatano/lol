@@ -118,3 +118,7 @@ body {
 	background-color: #ddd;
 	cursor: pointer;
 }
+.responsive {
+	width: 100%;
+	height: auto;
+}
